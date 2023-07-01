@@ -28,6 +28,7 @@ The AAR is a small robot capable of doing multiple task by itself. Multiple AARs
 - 2 x DC Motors
 - 2 x HG7881 Motor Driver
 - 1 x Electromagnet
+- 1 x TCS3200  Color Sensor
 
 The code for the robot is provided above.
 
